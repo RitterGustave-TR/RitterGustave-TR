@@ -31,10 +31,10 @@ I'm working on a foundational **Data Structures library** to support various sof
 Improving workplace experiences is my JAM!....stack. I believe in lifting spirits and efficiency through a blend of humor and thoughtful reflection.
 
 ## 📈 GitHub Stats
-![Ritter's GitHub stats](https://github-readme-stats.vercel.app/api?username=rGustave07&show_icons=true)
+![Ritter's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitterGustave-TR&show_icons=true)
 
 ### 📊 Language Usage
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rGustave07&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitterGustave-TR&layout=compact)
 
 ## 📫 Get in Touch
 - Email: [rGustave5@gmail.com](mailto:rGustave5@gmail.com)
